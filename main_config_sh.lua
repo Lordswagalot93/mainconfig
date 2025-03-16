@@ -799,8 +799,8 @@ imperium_specializations = {
             Default = false,
             Spy = true,
             Models = {},
-            Weapons = {},
-            SpawnWeapons = {"hide_player","tfa_ww1_tnt_charge"},
+            Weapons = {"tfa_ww1_tnt_charge","tfa_ww1_geballte_ladung","tfa_verdun_tankgewehr"},
+            SpawnWeapons = {"hide_player"},
             Prefix = "SAB",
             Max = 2
         },
